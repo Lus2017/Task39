@@ -1,9 +1,5 @@
 function sortFour(a,b,c,d,sortOption){
     var low1,high1,low2,high2,lowest,highest,middle1,middle2;
-    function hagnel(shor) {
-        console.log('es haga '+shor)
-    }
-    hagnel('verarku')
     if (a < b){
         low1 = a;
         high1 = b;
