@@ -41,4 +41,4 @@ function checkNumbers(number){
     alert(max+' '+middle+' '+min);
     alert(min+' '+middle+' '+max);
 }
-checkNumbers(567);
+checkNumbers(568);
